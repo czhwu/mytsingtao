@@ -1,0 +1,19 @@
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Environments
+.env
+venv
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# dev_conf
+settings/dev.py
+
+#pycharm
+.idea
